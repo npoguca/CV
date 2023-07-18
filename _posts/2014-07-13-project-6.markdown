@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Dragon Champions is a high-production multiplayer arena brawler game, with a vast array of characters that has gained a dedicated fan base since its inception. As a team member who began collaboration after the publication of the game, I mostly supported the project by adding minor features and fixing bugs but I got a chance to research the team’s approach to client-server communication and general system architecture..
 ---

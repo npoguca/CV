@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Samedi Manor is an underworld themed idle game, and a second idle farm type game I’ve worked on. On this project, I successfully managed 5 team members, and oversaw it’s production. I successfully guided it to a completed status with a stable release schedule. 
 ---

@@ -7,5 +7,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Idle Rabbits: Save the World is a fully 3D idle management game where you rid the Rabbit city of a virus that is inflicting the landscape and characters. 
+This project posed a few interesting challenges like an optimized dynamically sorted World Screen UI, a dynamically changing path graph, custom shaders/texture maps generated from tiles to seamlessly animate visual terrain transformation, all of which I got to work on. I successfully aided in the publication of this project. 
 ---
